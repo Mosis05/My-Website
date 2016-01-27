@@ -1,0 +1,39 @@
+.container {
+
+	/*background-image: url("https://s-media-cache-ak0.pinimg.com/736x/d2/c8/a3/d2c8a3151d2e139953a141c3664c602e.jpg");*/
+	text-align: center;
+	color: #800000;
+	border-top: 
+	display: inline-block;
+	font-family: Times,lucida;
+	float: center;
+	
+}
+
+.city {
+
+	background-image: url ("https://s-media-cache-ak0.pinimg.com/736x/d2/c8/a3/d2c8a3151d2e139953a141c3664c602e.jpg");
+	height: 500px;
+}
+
+.body {
+ 	
+
+ 	color: #800000;
+	
+	font-family: lucida, times, sans-serif;
+	font-style: bold;
+	font-color: maroon;
+
+}
+
+a:hover {
+	color: green;
+}
+
+.third {
+
+	color: #800000;
+
+}
+
