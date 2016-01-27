@@ -1,39 +1,56 @@
 .container {
 
-	/*background-image: url("https://s-media-cache-ak0.pinimg.com/736x/d2/c8/a3/d2c8a3151d2e139953a141c3664c602e.jpg");*/
 	text-align: center;
-	color: #800000;
-	border-top: 
+	color: white;
 	display: inline-block;
 	font-family: Times,lucida;
 	float: center;
 	
 }
+body {
+	background-color: blue:;
+	background-image: url("http://wallpapersdesk.net/wp-content/uploads/2015/06/3177_galaxy-1024x640.jpg");*/
+	
+}
 
 .city {
 
-	background-image: url ("https://s-media-cache-ak0.pinimg.com/736x/d2/c8/a3/d2c8a3151d2e139953a141c3664c602e.jpg");
-	height: 500px;
-}
+	
+	}
 
 .body {
- 	
 
- 	color: #800000;
+ 	color: white;
 	
 	font-family: lucida, times, sans-serif;
 	font-style: bold;
 	font-color: maroon;
 
 }
+#Audi{
+	padding-top: 50px;
+	display: block;
+	margin: auto;
+	border-radius: 200px;
+	height:300px;
+	width: 300px;
+}
 
+a {
+	color:white;
+}
 a:hover {
 	color: green;
 }
 
 .third {
 
-	color: #800000;
+	color: white;
 
+}
+
+.image {
+	height: 200px;
+	width: 300pxr;
 }
 
